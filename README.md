@@ -6,7 +6,7 @@ A Python-based network monitoring application that captures IP traffic, extracts
 
 ## 📸 Project Dashboard
 
-![Network Packet Sniffer Dashboard](dashboard.png)
+![Network Packet Sniffer Dashboard](/dashboard.png)
 
 The dashboard displays recently captured network traffic along with the corresponding IP reputation status.
 
