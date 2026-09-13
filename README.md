@@ -6,9 +6,7 @@ A Python-based network monitoring application that captures IP traffic, extracts
 
 ## 📸 Project Dashboard
 
-> Add your dashboard screenshot to the `screenshots` folder using the filename `dashboard.png`.
-
-![Network Packet Sniffer Dashboard](screenshots/dashboard.png)
+![Network Packet Sniffer Dashboard](dashboard.png)
 
 The dashboard displays recently captured network traffic along with the corresponding IP reputation status.
 
